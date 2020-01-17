@@ -14,6 +14,9 @@ $(document).ready(function() {
   if (result < 10) {
     $("#python").show();
     $("form#calculator").hide()
+ } else if (result >= 10 & result < 19) {
+   $("#Ruby").show();
+   $("form#calculator").hide()
  }
 });
 });
