@@ -11,7 +11,7 @@ $(document).ready(function() {
 
 
   $("#output").text(result);
-  if (result < 10) {
+  if (result === 0 || result < 10) {
     $("#python").show();
     $("form#calculator").hide()
  } else if (result >= 10 & result < 19) {

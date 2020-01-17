@@ -1,5 +1,5 @@
 body {
-  background-color: bisque;
+  background-color: #6fc4a4;
 }
 
 #python{
@@ -19,4 +19,38 @@ body {
 
 #fullstack {
   display: none;
+}
+
+.btn {
+  border: 1px solid;
+ padding: 10px;
+ box-shadow: 5px 10px #888888;
+
+}
+
+.container2 {
+  background-color: beige;
+  border: 1px solid;
+ padding: 10px;
+ margin: 10px;
+ box-shadow: 5px 10px #888888;
+}
+
+.container3 {
+  background-color: bisque;
+  border: 1px solid;
+ padding: 10px;
+ margin: 10px;
+ box-shadow: 5px 10px #888888;
+
+}
+
+img {
+  border-radius: 50%;
+}
+
+p2 {
+  text-align: center;
+  color: brown;
+  text-decoration: underline;
 }
