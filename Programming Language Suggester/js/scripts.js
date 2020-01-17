@@ -10,13 +10,23 @@ $(document).ready(function() {
     var result = number1 + number2 + number3 + number4 + number5;
 
 
-  $("#outpt").text(result);
+  $("#output").text(result);
   if (result < 10) {
     $("#python").show();
     $("form#calculator").hide()
  } else if (result >= 10 & result < 19) {
    $("#Ruby").show();
    $("form#calculator").hide()
+} else if (result >= 19 & result < 30) {
+ $("#C").show();
+ $("form#calculator").hide()
+ } else if (result >= 30 & result < 40) {
+  $("#Java").show();
+  $("form#calculator").hide()
+} else {
+  $("#fullstack").show();
+  $("form#calculator").hide()
  }
-});
+
+ });
 });
