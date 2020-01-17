@@ -1,3 +1,7 @@
 body {
   background-color: bisque;
 }
+
+#python{
+  display: none;
+}
