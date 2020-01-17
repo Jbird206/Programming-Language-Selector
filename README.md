@@ -27,6 +27,8 @@ https://github.com/Jbird206/jbird206.github.io.git
 * a
 * img
 * div 
-# Download or clone, then open the html file with your web browser.
+
+# Setup instructions
+## Download or clone, then open the html file with your web browser.
 
 ###  all rights reserved. Do not copy. Property of Jason McGrady
