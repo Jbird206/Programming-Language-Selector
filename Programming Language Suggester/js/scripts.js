@@ -7,5 +7,13 @@ $(document).ready(function() {
     var number4 = parseInt($("#input4").val());
     var number5 = parseInt($("#input5").val());
 
-    var result + number1 + number2 + number3 + number4 + number5;
-  }
+    var result = number1 + number2 + number3 + number4 + number5;
+
+
+  $("#outpt").text(result);
+  if (result < 10) {
+    $("#python").show();
+    $("form#calculator").hide()
+ }
+});
+});
