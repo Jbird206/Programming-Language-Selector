@@ -5,7 +5,7 @@
 _Jason McGrady_
 https://github.com/Jbird206/jbird206.github.io.git
 ## CSS sheet contains the following
-* Columns (4)
+
 * Containers (3)
 * Rows
 * Body
@@ -14,7 +14,6 @@ https://github.com/Jbird206/jbird206.github.io.git
 ## Bootstrap classes also included
 * Jumbotron
 * Container-Fluid
-* Panel Heading, Default, Body
 * btn-primary
 
 #### Exibit the use of the *following* HTML tags, p, h, ul, ol, li, em, strong, a, img, div & span.
@@ -27,6 +26,6 @@ https://github.com/Jbird206/jbird206.github.io.git
 * strong
 * a
 * img
-* div and span
+* div 
 
-# APCC is all rights reserved. Do not copy. Property of Jason McGrady
+#  all rights reserved. Do not copy. Property of Jason McGrady
