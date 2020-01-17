@@ -20,3 +20,18 @@ body {
 #fullstack {
   display: none;
 }
+
+.btn {
+  border: 1px solid;
+ padding: 10px;
+ box-shadow: 5px 10px #888888;
+
+}
+
+.container2 {
+  background-color: beige;
+  border: 1px solid;
+ padding: 10px;
+ margin: 10px;
+ box-shadow: 5px 10px #888888;
+}
